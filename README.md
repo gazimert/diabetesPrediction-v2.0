@@ -3,8 +3,7 @@
 Bu proje, diyabet hastalığını tahmin etmek için **MLP (Multi-Layer
 Perceptron)** algoritmasını kullanır. Veri seti önişleme adımlarından
 geçirilir, **SMOTE ile dengesizlik sorunları giderilir**, model eğitilir
-ve farklı metrikler ile değerlendirilir. Ayrıca eğitim süreci ve
-sonuçlar görselleştirilmiştir.
+ve farklı metrikler ile değerlendirilir. Ayrıca, modeli gerçek zamanlı tahminler yapabilen bir Flask API'si ile kullanıma sunar.
 
 ## 🔹 Kullanılan Teknolojiler
 
