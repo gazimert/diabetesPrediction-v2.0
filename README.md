@@ -1,4 +1,4 @@
-# 🩺 Diyabet Tahmin Modeli (MLP + Veri Ön İşleme + Görselleştirme)
+# 🩺 Diyabet Tahmin Modeli (MLP + Flask API)
 
 Bu proje, diyabet hastalığını tahmin etmek için **MLP (Multi-Layer
 Perceptron)** algoritmasını kullanır. Veri seti önişleme adımlarından
